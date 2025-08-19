@@ -72,5 +72,6 @@ export default function Home() {
 
   return (<>
   <h1> Hi hasini </h1>
+  <Image src={"/hasini.jpeg"} width={500} height={500} alt="a pic of a bozo"/>
   </> );
 }
