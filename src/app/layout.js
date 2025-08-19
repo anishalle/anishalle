@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Appwrite + Next.js",
-  description: "Appwrite starter for Next.js",
+  title: "anishalle · fullstack. researcher. contributor. · Software dev at Liberty Mutual · UTD CS + Econ",
+  description: "",
 };
 
 export default function RootLayout({ children }) {
